@@ -9,6 +9,13 @@
 
 * 2017년 상하반기
 
+## 내가 한 부분
+
+* Speaker 제어를 위한 Android application 부분을 담당했다.
+* Raspberry Pi 와 Android application 과의 bluetooth 통신
+* Android application 에서 google map 과 날씨 api 활용 현재 날씨 받아오는 기능
+* Android application 에서 그림을 그리고 raspberry pi 에 전송하는 기능
+
 ## 프로젝트에 사용된 기술
 
 * Android
